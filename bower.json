@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "description": "data",
+  "main": "List.js",
+  "authors": [
+    "shenchangmin <victor.shen@ximalaya.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
