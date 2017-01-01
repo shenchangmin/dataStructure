@@ -1,11 +1,22 @@
 {
-  "name": "demo",
+  "name": "structure",
   "version": "1.0.0",
-  "description": "data",
-  "main": "List.js",
+  "description": "数据结构和算法js部分实现",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm start"
   },
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenchangmin/dataStructure.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "shenchangmin <503228482@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shenchangmin/dataStructure/issues"
+  },
+  "homepage": "https://github.com/shenchangmin/dataStructure#readme"
 }
